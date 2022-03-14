@@ -1,0 +1,47 @@
+:root {
+  font-size: 16px;
+  font-family: 'Open Sans';
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.CodeMirror {
+  border: 1px solid #eee;
+  height: auto;
+}
+
+.ml{
+  margin-left: 60px;
+  background-color: brown;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+*,*:before,*:after {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+:focus,
+:active {
+outline: none;
+}
+a:focus,
+a:active {
+outline: none;
+}
+
+nav,footer,header,aside {
+display: block;
+}
