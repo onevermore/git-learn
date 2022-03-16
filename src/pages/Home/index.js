@@ -1,8 +1,5 @@
 import React from 'react';
-import { Drawer } from '../../components/Drawer';
-import { NavMenu } from '../../components/NavMenu';
 import HeaderBlock from '../../components/HeaderBlock';
-import s from '../Home/Home.module.scss';
 import homer from '../../homer.png';
 import 'codemirror/lib/codemirror.css';
 import 'codemirror/theme/material.css';
